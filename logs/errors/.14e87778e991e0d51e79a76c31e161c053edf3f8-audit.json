@@ -1,0 +1,85 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\errors\\.14e87778e991e0d51e79a76c31e161c053edf3f8-audit.json",
+    "files": [
+        {
+            "date": 1686893008730,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\errors\\phu-2023-16-06-11error.log",
+            "hash": "354aff517943889eb3bd2fe29d10f1f105c07c54ed6d91e186ededec6f3440a4"
+        },
+        {
+            "date": 1686897670913,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\errors\\phu-2023-16-06-12error.log",
+            "hash": "1739b1b6db4750f6427445d205066030cb40627bd99914ab82583b88b487411b"
+        },
+        {
+            "date": 1686904211606,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\errors\\phu-2023-16-06-14error.log",
+            "hash": "cc5632a42d774a586e672d5312e8cdfcbbde17e69dab817d3508085be234d4e2"
+        },
+        {
+            "date": 1686908635871,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\errors\\phu-2023-16-06-15error.log",
+            "hash": "74afc8e9073e211e5a154448390d6df7fd667b5eed2202207fa5f32456df07fb"
+        },
+        {
+            "date": 1686910159138,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\errors\\phu-2023-16-06-16error.log",
+            "hash": "5b5e1d6fa1b6adcd64667c01ad262e5e42240deb8ac7f8fc771806795b1fec35"
+        },
+        {
+            "date": 1686926503827,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\errors\\phu-2023-16-06-20error.log",
+            "hash": "e2bcda09da4ae24c6a8e2e607751ddf57065b3d7186fc730178524e45f723a5c"
+        },
+        {
+            "date": 1686927628954,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\errors\\phu-2023-16-06-21error.log",
+            "hash": "2e6cea74768c636e657e3f3f2303f713cbd3c70c78e28e4d51048dd5ee8d8c3f"
+        },
+        {
+            "date": 1686933320220,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\errors\\phu-2023-16-06-22error.log",
+            "hash": "87543a98b361545f290f02f797ff672e481353160800bd7c6c030a16ce48178f"
+        },
+        {
+            "date": 1686934812318,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\errors\\phu-2023-16-06-23error.log",
+            "hash": "d3dbf8e1eb81d37e34e20e3319c9003429b79363b548973cfbb553196611a8bb"
+        },
+        {
+            "date": 1686938499217,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\errors\\phu-2023-17-06-00error.log",
+            "hash": "a6d13d288b5be2831a03afc0156d5208587b27772cf6e2cf4e1ab321242b7363"
+        },
+        {
+            "date": 1686980916154,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\errors\\phu-2023-17-06-11error.log",
+            "hash": "f0e9b892ad148dcf1cdf79747ae5462317b1885fa62e529bb37230bf950a4eb8"
+        },
+        {
+            "date": 1686982000844,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\errors\\phu-2023-17-06-12error.log",
+            "hash": "ce2e20036f9a41fc089d10cba3c8f1e46b35d2532f56d445cbf361852c56abc4"
+        },
+        {
+            "date": 1686989862108,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\errors\\phu-2023-17-06-14error.log",
+            "hash": "1e651f1e2374745a407ecab0edcbfa1cf19053049e4e3aec3ee9e730966297ff"
+        },
+        {
+            "date": 1686994993993,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\errors\\phu-2023-17-06-15error.log",
+            "hash": "0f441b2d2d6268c5b78bbf9cef0848365139e16e76d619aaa92c8af75a74de38"
+        },
+        {
+            "date": 1686996094357,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\errors\\phu-2023-17-06-16error.log",
+            "hash": "dfa95aa123f1c6b35ace31441d8d643d38a55dd108002a4c2bd660a15ee24c07"
+        }
+    ],
+    "hashType": "sha256"
+}

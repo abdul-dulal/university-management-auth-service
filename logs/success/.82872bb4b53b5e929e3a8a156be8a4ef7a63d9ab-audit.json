@@ -1,0 +1,85 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\success\\.82872bb4b53b5e929e3a8a156be8a4ef7a63d9ab-audit.json",
+    "files": [
+        {
+            "date": 1686893487555,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\success\\phu-2023-16-06-11success.log",
+            "hash": "552683e370ef7253bc7e3b5fa91a0f9910e4ad8f1cb1d4f80af9b9a9222dd9b1"
+        },
+        {
+            "date": 1686897670901,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\success\\phu-2023-16-06-12success.log",
+            "hash": "76da9bc32bfed97edd494dfd218d2abe21e26586b421ccd282c262e3d8ebc45e"
+        },
+        {
+            "date": 1686904211571,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\success\\phu-2023-16-06-14success.log",
+            "hash": "afb1d3c46c28432158d1a1842f2528a83afea378a6c1330d0c2a2ed654faab9c"
+        },
+        {
+            "date": 1686908635846,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\success\\phu-2023-16-06-15success.log",
+            "hash": "2444822ceec2a2f9b8e9a068d42f64e4beb807e08b4b100080117f202ebae101"
+        },
+        {
+            "date": 1686910158968,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\success\\phu-2023-16-06-16success.log",
+            "hash": "9dc4e5fda4e60281d58922183fd7ceacb1ba3d7dfd7e961009f0815798b21138"
+        },
+        {
+            "date": 1686926503759,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\success\\phu-2023-16-06-20success.log",
+            "hash": "b9b4454e4669bbbbda5cf90bb577f15f91a5e0e13614a00871107ac066767fb0"
+        },
+        {
+            "date": 1686927628950,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\success\\phu-2023-16-06-21success.log",
+            "hash": "f73336a5bf48e5ec812a38a866845f77e417bc600600ce86cd825cfb59a9d608"
+        },
+        {
+            "date": 1686933320142,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\success\\phu-2023-16-06-22success.log",
+            "hash": "21b5d2d827252f350d4791b39de97ca11a1e2cf629f84a7db2f2f7a441fd8279"
+        },
+        {
+            "date": 1686934812296,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\success\\phu-2023-16-06-23success.log",
+            "hash": "52174203475c69084d107adf23dece2eba692f13145371e1ff32b6d4bd9a2cf8"
+        },
+        {
+            "date": 1686938499207,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\success\\phu-2023-17-06-00success.log",
+            "hash": "a450e9709ce92456725d81e1327c71829a875cc51c462872061955fc2a2578a4"
+        },
+        {
+            "date": 1686980916107,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\success\\phu-2023-17-06-11success.log",
+            "hash": "c88aa395f09138869d67e849ba5db515414fff8e2139b22663af2ed137b6f8db"
+        },
+        {
+            "date": 1686982000821,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\success\\phu-2023-17-06-12success.log",
+            "hash": "c177f4595e9eeb387a10b0f86848e4178142f0f91caacc4606f505371df64d68"
+        },
+        {
+            "date": 1686989862062,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\success\\phu-2023-17-06-14success.log",
+            "hash": "d95843194e771d8be511327d07cef84758d0a3e5930b5680080a598b785fa0f5"
+        },
+        {
+            "date": 1686994993929,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\success\\phu-2023-17-06-15success.log",
+            "hash": "de4bcc531eb695d2c956062bc2e55b0dafbb165ba6feeba2bb20a3dae386ecf0"
+        },
+        {
+            "date": 1686996094350,
+            "name": "H:\\Programing_Hero_Work\\level-2\\university-management-auth-service\\logs\\success\\phu-2023-17-06-16success.log",
+            "hash": "d9baf68c09e511bb3954580ce9f65a72af44180a1b0628f7133f0779bfba6af1"
+        }
+    ],
+    "hashType": "sha256"
+}

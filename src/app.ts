@@ -1,16 +1,18 @@
-import express, { Application, Request, Response } from 'express'
-import cors from 'cors'
-import userRoute from './app/modules/users/user.router'
-const app: Application = express()
-app.use(cors())
-app.use(express.json())
-app.use(express.urlencoded({ extended: true }))
+import express, { Application, Request, Response } from 'express';
+import cors from 'cors';
+import globalErrorHandler from './app/middleware/globalErrorHandler';
+const app: Application = express();
+import routes from './app/routes';
+app.use(cors());
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 // application route
-app.use('/api/users', userRoute)
+app.use('/api', routes);
+app.get('/', async (req: Request, res: Response) => {
+  console.log(x);
+});
 
-app.get('/', (req: Request, res: Response) => {
-  res.send('Hello World!')
-})
+app.use(globalErrorHandler);
 
-export default app
+export default app;
